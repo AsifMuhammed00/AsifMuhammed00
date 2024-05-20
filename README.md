@@ -1,5 +1,5 @@
 ## 👋Hi I'm Asif Muhammed <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-a MERN stack developer with 2 years of experience. 🚀 Graduated from Kerala University. Passionate about building scalable web applications and exploring new technologies. Check out my repositories below! 💻
+a MERN stack developer with 4 years of experience. 🚀 Graduated from Kerala University. Passionate about building scalable web applications and exploring new technologies. Check out my repositories below! 💻
 
 
 
